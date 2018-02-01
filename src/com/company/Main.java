@@ -6,9 +6,10 @@ public class Main {
 
 
 
-        Distancia a = new Distancia(10, 20);
+        Distancia a = new Distancia(1, 2);
+        Distancia b = new Distancia(3, 4);
 
-        System.out.println("La distancia es:" + "," + a.distancia(10, 20));
+        System.out.println("La distancia es:" + "," + a.distancia(b.puntox, b.puntoy));
 
 
     }

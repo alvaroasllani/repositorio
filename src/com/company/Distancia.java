@@ -6,8 +6,8 @@ public class Distancia {
 
 
     public Distancia(int puntox, int puntoy) {
-        puntox = puntox;
-        puntoy = puntoy;
+        this.puntox = puntox;
+        this.puntoy = puntoy;
 
     }
 
